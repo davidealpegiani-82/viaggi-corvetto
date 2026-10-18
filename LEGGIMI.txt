@@ -1,0 +1,10 @@
+# Tabella Viaggi Corvetto — uso semplice
+
+1. Vai su Netlify Drop: https://app.netlify.com/drop
+   oppure aggiorna il sito già pubblicato trascinando lo zip nella pagina Deploys
+2. Apri il link HTTPS che Netlify ti dà
+3. Sul telefono: menu browser → "Aggiungi a Home" / Installa app
+
+Importante: usa SEMPRE il link Netlify, non il file dai Download, altrimenti lo sync tra dispositivi non funziona.
+
+Sito attuale: https://bejewelled-shortbread-65b56c.netlify.app/
